@@ -1,0 +1,4 @@
+笔记本这里用的是Bert38这个环境
+
+这个DEMO主要是MAE的预训练模型部分
+可以跑mae_pretrained_model_run.py这个感受它的功能，可以实现图像重建
